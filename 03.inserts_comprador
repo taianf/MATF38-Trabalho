@@ -1,0 +1,3 @@
+INSERT INTO sorveteria.Comprador (Id_Funcionario, Nome) VALUES (12345, 'Luiz');
+INSERT INTO sorveteria.Comprador (Id_Funcionario, Nome) VALUES (12346, 'Leduan');
+INSERT INTO sorveteria.Comprador (Id_Funcionario, Nome) VALUES (12347, 'Taian');
