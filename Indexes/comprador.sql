@@ -1,0 +1,1 @@
+CREATE INDEX nome_comprador_idx ON sorveteria.Comprador (Nome);
